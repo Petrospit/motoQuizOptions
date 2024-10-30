@@ -1,0 +1,36 @@
+{
+  "questions": [
+    {
+      "question": "Which is the oldest Rally race?",
+      "options": ["Monte-Carlo", "Safari", "Acropolis", "1000 lakes"],
+      "correctOption": 0
+    },
+    {
+      "question": "Who is the youngest F1 race winner?",
+      "options": [
+        "Max Verstappen",
+        "Lewis Hamilton",
+        "Sebastian Vettel",
+        "Yuji Ide"
+      ],
+      "correctOption": 0
+    },
+    {
+      "question": "What used to be the old name of the Super Formula championship?",
+      "options": ["Formula Nippon", "JGTC", "F5", "IXT"],
+      "correctOption": 0
+    },
+
+    {
+      "question": "When was the last year Motogp used 500cc 2-stroke bikes?",
+      "options": ["2000", "2001", "1999", "2003"],
+      "correctOption": 1
+    },
+
+    {
+      "question": "Which manufacturer has won the most F1 constructors titles?",
+      "options": ["Ferrari", "Mclaren", "Mercedes", "Arrows"],
+      "correctOption": 0
+    }
+  ]
+}
